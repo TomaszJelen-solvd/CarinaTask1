@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="efbf3803-6469-48de-ac85-9881ffec8fcf" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/0/000408cbe5fb3730150c483a5adfeb06a319f220" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/5/3562c7781243ed96128b264afc5a1a2af9ee3487" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/9/39ee2365b8fdd0096ed703d5c0a69a080333f942" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/1/a15dda16ed3317b2fbce2dd2854ec6c6aa306c35" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/c/bcd1d6e75ea6fa9f52b1081c40c9057ddac54f0b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/2/e296ce462d2ae933595468117a475a217617ac1c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/6/e649bd85acd3150f152ee1d069b489680755d8e5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/c/ecdfc0c16667f9d2115e143ab059f006dcb933af" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/0/0/000408cbe5fb3730150c483a5adfeb06a319f220" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/3/5/3562c7781243ed96128b264afc5a1a2af9ee3487" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/3/9/39ee2365b8fdd0096ed703d5c0a69a080333f942" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/a/1/a15dda16ed3317b2fbce2dd2854ec6c6aa306c35" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/b/c/bcd1d6e75ea6fa9f52b1081c40c9057ddac54f0b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/e/2/e296ce462d2ae933595468117a475a217617ac1c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/e/6/e649bd85acd3150f152ee1d069b489680755d8e5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/e/c/ecdfc0c16667f9d2115e143ab059f006dcb933af" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/carina/demo/api/DeleteUserMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/carina/demo/api/GetUserMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/carina/demo/api/PostUserMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/carina/demo/db/mappers/UserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/carina/demo/db/mappers/UserPreferenceMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/carina/demo/db/models/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/carina/demo/db/models/UserPreference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/carina/demo/gui/components/ModelItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/carina/demo/gui/components/NewsItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/carina/demo/gui/components/WeValuePrivacyAd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/carina/demo/gui/components/compare/CandidateBlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/carina/demo/gui/components/compare/ModelSpecs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/carina/demo/gui/components/footer/FooterMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/carina/demo/gui/components/footer/FooterMenuBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/carina/demo/gui/components/footer/MobileFooterMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/carina/demo/gui/pages/android/AllBrandsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/carina/demo/gui/pages/android/BrandModelsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/carina/demo/gui/pages/android/CompareModelsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/carina/demo/gui/pages/android/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/carina/demo/gui/pages/android/ModelInfoPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/carina/demo/gui/pages/android/NewsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/carina/demo/gui/pages/common/AllBrandsPageBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/carina/demo/gui/pages/common/BrandModelsPageBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/carina/demo/gui/pages/common/CompareModelsPageBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/carina/demo/gui/pages/common/HomePageBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/carina/demo/gui/pages/common/ModelInfoPageBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/carina/demo/gui/pages/common/NewsPageBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/carina/demo/gui/pages/desktop/AllBrandsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/carina/demo/gui/pages/desktop/AttachFilePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/carina/demo/gui/pages/desktop/BrandModelsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/carina/demo/gui/pages/desktop/CompareModelsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/carina/demo/gui/pages/desktop/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/carina/demo/gui/pages/desktop/ModelInfoPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/carina/demo/gui/pages/desktop/NewsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/carina/demo/gui/pages/desktop/WikipediaHomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/carina/demo/gui/pages/desktop/WikipediaLocalePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/carina/demo/gui/pages/ios/AllBrandsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/carina/demo/gui/pages/ios/BrandModelsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/carina/demo/gui/pages/ios/CompareModelsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/carina/demo/gui/pages/ios/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/carina/demo/gui/pages/ios/ModelInfoPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/carina/demo/gui/pages/ios/NewsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/carina/demo/mobile/gui/pages/android/CarinaDescriptionPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/carina/demo/mobile/gui/pages/android/ChartsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/carina/demo/mobile/gui/pages/android/ContactUsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/carina/demo/mobile/gui/pages/android/DragAndDropPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/carina/demo/mobile/gui/pages/android/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/carina/demo/mobile/gui/pages/android/MapsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/carina/demo/mobile/gui/pages/android/UIElementsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/carina/demo/mobile/gui/pages/android/WebViewPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/carina/demo/mobile/gui/pages/android/WelcomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/carina/demo/mobile/gui/pages/common/CarinaDescriptionPageBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/carina/demo/mobile/gui/pages/common/ChartsPageBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/carina/demo/mobile/gui/pages/common/ContactUsPageBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/carina/demo/mobile/gui/pages/common/LoginPageBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/carina/demo/mobile/gui/pages/common/MapsPageBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/carina/demo/mobile/gui/pages/common/UIElementsPageBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/carina/demo/mobile/gui/pages/common/WebViewPageBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/carina/demo/mobile/gui/pages/common/WelcomePageBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/carina/demo/mobile/gui/pages/ios/CarinaDescriptionPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/carina/demo/mobile/gui/pages/ios/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/carina/demo/mobile/gui/pages/ios/PreferencesPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/carina/demo/mobile/gui/pages/ios/SaucePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/carina/demo/mobile/gui/pages/ios/WelcomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/carina/demo/newer/CartPageBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/carina/demo/newer/InventoryPageBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/carina/demo/newer/LoginPageBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/carina/demo/newer/PageBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/carina/demo/newer/ProductComponent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/carina/demo/newer/android/CartPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/carina/demo/newer/android/InventoryPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/carina/demo/newer/android/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/carina/demo/newer/desktop/CartPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/carina/demo/newer/desktop/InventoryPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/carina/demo/newer/desktop/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/carina/demo/soap/AddIntegerMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/carina/demo/soap/LookupCityMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/carina/demo/utils/ArtifactUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/carina/demo/utils/ConnectionFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/carina/demo/utils/MobileContextUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/carina/demo/websocket/EndpointUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/carina/demo/websocket/WebsocketClientEndpoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/L10N/locale.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/L10N/locale_de_DE.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/L10N/locale_en_US.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/L10N/locale_es_ES.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/L10N/locale_hu_HU.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/L10N/locale_ja_JP.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/L10N/locale_ru_RU.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/L10N/locale_zh_CN.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/_config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/_database.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/_email.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/_testdata.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/agent.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/browserstack/android/Google_Nexus_6.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/browserstack/ios/iPhone_12.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/browserstack/osx/big_sur.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/browserstack/win/win_10_Edge.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mappers/UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mappers/UserPreferenceMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mybatis-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/carina/demo/APISampleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/carina/demo/AmazonS3Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/carina/demo/AutoDownloadTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/carina/demo/CryptoSampleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/carina/demo/CustomDataProvidersSampleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/carina/demo/DBSampleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/carina/demo/DataProvidersSampleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/carina/demo/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/carina/demo/IOSPreferencesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/carina/demo/IOSSafariTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/carina/demo/MobileDragAndDropTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/carina/demo/MobileSampleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/carina/demo/PageOpeningStrategySampleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/carina/demo/ProxySampleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/carina/demo/SoapSampleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/carina/demo/WebLocalizationSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/carina/demo/WebMultipleBrowserTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/carina/demo/WebSampleSingleDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/carina/demo/WebSampleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/carina/demo/newer/IntegrationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/carina/demo/newer/LoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/carina/demo/newer/retired/MobileTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/carina/demo/newer/retired/PopTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/carina/demo/regression/attachfile/AttachFileTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/carina/demo/regression/dataprovider/DataproviderRetryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/carina/demo/regression/dataprovider/DataproviderRetryTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/carina/demo/regression/dataprovider/DataproviderRetryTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/carina/demo/regression/dataprovider/XlsDataproviderRetryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/carina/demo/regression/esg/ArtifactTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/carina/demo/regression/esg/ClipboardTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/carina/demo/regression/esg/DevToolsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/carina/demo/regression/esg/ProxyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/carina/demo/regression/esg/VNCTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/api/soap/addinteger/rq.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/api/soap/addinteger/rs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/api/soap/lookupcity/rq.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/api/soap/lookupcity/rs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/api/soap/soap.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/api/users/_delete/rq.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/api/users/_delete/rs.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/api/users/_get/rs.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/api/users/_get/rs.schema" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/api/users/_post/rq.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/api/users/_post/rs.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/api/users/user.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/data_source/calculator.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/data_source/demo.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/data_source/finances.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/data_source/financesPrevYear.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/GSMArenaNews.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/testng_suites/amazon.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/testng_suites/android-dragAndDrop.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/testng_suites/android.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/testng_suites/api.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/testng_suites/autodownload.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/testng_suites/dataprovider.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/testng_suites/helloWorld.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/testng_suites/ios-preferences.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/testng_suites/ios-safari.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/testng_suites/ios.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/testng_suites/proxy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/testng_suites/regression/attachFile.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/testng_suites/regression/dataprovider-multiply-classes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/testng_suites/regression/dataprovider-retry.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/testng_suites/regression/esg-artifact.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/testng_suites/regression/esg-clipboard.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/testng_suites/regression/esg-devtools.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/testng_suites/regression/esg-proxy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/testng_suites/regression/esg-vnc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/testng_suites/regression/xls-dataprovider-retry.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/testng_suites/soap.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/testng_suites/web-localization.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/testng_suites/web-multiple-browser.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/testng_suites/web-open-strategy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/testng_suites/web-single-driver.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/testng_suites/web.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2rZryMajzAOds1xC9iKwO8eskNo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/jenol/Desktop/tmptmp/solvd/Solvd-Laba&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\jenol\Desktop\tmptmp\solvd\CarinaTest\src\test\resources" />
+      <recent name="C:\Users\jenol\Desktop\tmptmp\solvd\CarinaTest\src\main\java\org\example\carina\demo\newer" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.example.carina.demo.newer.android" />
+      <recent name="org.example.carina.demo.newer" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.PopTest">
+    <configuration name="MobileTest.correctLoginSeleniumTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="CarinaTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.carina.demo.newer.desktop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.carina.demo.newer" />
+      <option name="MAIN_CLASS_NAME" value="org.example.carina.demo.newer.MobileTest" />
+      <option name="METHOD_NAME" value="correctLoginSeleniumTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MobileTest.testMobile" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="CarinaTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.carina.demo.newer.desktop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.carina.demo.newer" />
+      <option name="MAIN_CLASS_NAME" value="org.example.carina.demo.newer.MobileTest" />
+      <option name="METHOD_NAME" value="testMobile" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PopSuite" type="TestNG">
+      <module name="CarinaTest" />
+      <shortenClasspath name="NONE" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/testng.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PopTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="CarinaTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.carina.demo.newer.desktop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.carina.demo.newer" />
+      <option name="MAIN_CLASS_NAME" value="org.example.carina.demo.newer.PopTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PopTest.addButtonSeleniumTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="CarinaTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.carina.demo.newer.desktop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.carina.demo.newer" />
+      <option name="MAIN_CLASS_NAME" value="org.example.carina.demo.newer.PopTest" />
+      <option name="METHOD_NAME" value="addButtonSeleniumTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PopTest.wrongLoginSeleniumTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="CarinaTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.carina.demo.newer.desktop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.carina.demo.newer" />
+      <option name="MAIN_CLASS_NAME" value="org.example.carina.demo.newer.PopTest" />
+      <option name="METHOD_NAME" value="wrongLoginSeleniumTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.PopSuite" />
+      <item itemvalue="TestNG.MobileTest.correctLoginSeleniumTest" />
+      <item itemvalue="TestNG.MobileTest.testMobile" />
+      <item itemvalue="TestNG.PopTest.wrongLoginSeleniumTest" />
+      <item itemvalue="TestNG.PopTest.addButtonSeleniumTest" />
+      <item itemvalue="TestNG.PopTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.PopTest" />
+        <item itemvalue="TestNG.MobileTest.correctLoginSeleniumTest" />
+        <item itemvalue="TestNG.MobileTest.testMobile" />
+        <item itemvalue="TestNG.PopTest.wrongLoginSeleniumTest" />
+        <item itemvalue="TestNG.PopTest.addButtonSeleniumTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="efbf3803-6469-48de-ac85-9881ffec8fcf" name="Changes" comment="" />
+      <created>1736777693418</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1736777693418</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/org/example/carina/demo/newer/PopTest.java</url>
+          <line>208</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
