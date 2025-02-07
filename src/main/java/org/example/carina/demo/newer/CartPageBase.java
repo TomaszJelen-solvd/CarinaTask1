@@ -10,7 +10,7 @@ import java.math.BigDecimal;
 import java.util.List;
 import java.util.regex.Pattern;
 
-public abstract class CartPageBase extends AbstractPage {
+public abstract class CartPageBase extends PageBase {
 
     @FindBy(xpath = "//div[@class='inventory_item_name']")
     protected List<ExtendedWebElement> productTitles;
@@ -70,7 +70,5 @@ public abstract class CartPageBase extends AbstractPage {
                         .matcher(text).results().findFirst().get().group()))
                 .toList();
     }
-
-    public abstract String getDeviceModel();
 
 }

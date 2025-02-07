@@ -14,7 +14,7 @@ import java.net.MalformedURLException;
 import java.util.ArrayList;
 import java.util.List;
 
-public class LoginTest implements IAbstractTest {
+public class LoginTest extends TestBase {
     static final Logger logger = LoggerFactory.getLogger(LoginTest.class);
 
     @BeforeTest

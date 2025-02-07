@@ -8,7 +8,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
-public abstract class LoginPageBase extends AbstractPage {
+public abstract class LoginPageBase extends PageBase {
 
     @FindBy(css = "input[id='user-name']")
     protected ExtendedWebElement login;
@@ -47,5 +47,4 @@ public abstract class LoginPageBase extends AbstractPage {
         return errorText.getText().equals("Epic sadface: Username is required");
     }
 
-    public abstract String getDeviceModel();
 }

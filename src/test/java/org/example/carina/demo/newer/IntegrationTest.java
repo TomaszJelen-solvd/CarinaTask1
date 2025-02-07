@@ -14,7 +14,7 @@ import java.net.MalformedURLException;
 import java.util.ArrayList;
 import java.util.List;
 
-public class IntegrationTest implements IAbstractTest {
+public class IntegrationTest extends TestBase {
     static final Logger logger = LoggerFactory.getLogger(IntegrationTest.class);
 
     String userName = "standard_user";
@@ -52,23 +52,7 @@ public class IntegrationTest implements IAbstractTest {
         Assert.assertTrue(checkProductTitle(cartPage.getProductTitles(), title), "Wrong product title");
     }
 
-    private static boolean checkProductTitle(List<String> productTitles, String title) {
-        for (String productTitle : productTitles) {
-            if (productTitle.equals(title)) {
-                return true;
-            }
-        }
-        return false;
-    }
 
-    public boolean checkProductTitles(List<String> productTitles, List<String> titles) {
-        for (String title : titles) {
-            if (!checkProductTitle(productTitles, title)) {
-                return false;
-            }
-        }
-        return true;
-    }
 
     @Test
     public void cartMultipleCheckSeleniumTest() {
@@ -136,24 +120,6 @@ public class IntegrationTest implements IAbstractTest {
         }
         CartPageBase cartPage = inventoryPage.clickCart();
         Assert.assertTrue(checkProductTitlesPrices(cartPage.getProductTitles(), titles, cartPage.altGetProductPrices(), prices), "Error: Wrong products or prices");
-    }
-
-    public boolean checkProductTitlePrice(List<String> productTitles, String title, List<BigDecimal> productPrices, BigDecimal price) {
-        for (String productTitle : productTitles) {
-            if (productTitle.equals(title)) {
-                return productPrices.get(productTitles.indexOf(productTitle)).compareTo(price) == 0;
-            }
-        }
-        return false;
-    }
-
-    public boolean checkProductTitlesPrices(List<String> productTitles, List<String> titles, List<BigDecimal> productPrices, List<BigDecimal> prices) {
-        for (int i = 0; i < titles.size(); i++) {
-            if (!checkProductTitlePrice(productTitles, titles.get(i), productPrices, prices.get(i))) {
-                return false;
-            }
-        }
-        return true;
     }
 
     @Test

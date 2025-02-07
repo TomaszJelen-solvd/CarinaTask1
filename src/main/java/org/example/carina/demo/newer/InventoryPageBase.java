@@ -9,7 +9,7 @@ import org.openqa.selenium.support.PageFactory;
 
 import java.util.List;
 
-public abstract class InventoryPageBase extends AbstractPage {
+public abstract class InventoryPageBase extends PageBase {
     @FindBy(xpath = "//div[text()='Swag Labs']")
     protected ExtendedWebElement title;
     @FindBy(css = "a[class='shopping_cart_link']")
@@ -41,7 +41,6 @@ public abstract class InventoryPageBase extends AbstractPage {
 
     public abstract CartPageBase clickCart();
 
-    public abstract String getDeviceModel();
 
 
 }
