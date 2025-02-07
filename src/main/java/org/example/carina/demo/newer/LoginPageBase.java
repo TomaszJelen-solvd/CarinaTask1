@@ -47,5 +47,4 @@ public abstract class LoginPageBase extends AbstractPage {
         return errorText.getText().equals("Epic sadface: Username is required");
     }
 
-    public abstract String getDeviceModel();
 }

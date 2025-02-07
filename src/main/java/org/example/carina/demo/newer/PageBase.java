@@ -7,4 +7,6 @@ public abstract class PageBase extends AbstractPage {
     protected PageBase(WebDriver driver) {
         super(driver);
     }
+
+    public abstract String getDeviceModel();
 }

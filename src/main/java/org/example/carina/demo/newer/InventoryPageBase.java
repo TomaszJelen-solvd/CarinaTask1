@@ -41,7 +41,6 @@ public abstract class InventoryPageBase extends AbstractPage {
 
     public abstract CartPageBase clickCart();
 
-    public abstract String getDeviceModel();
 
 
 }

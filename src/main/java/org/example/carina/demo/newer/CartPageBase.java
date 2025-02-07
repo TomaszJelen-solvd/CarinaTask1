@@ -71,6 +71,4 @@ public abstract class CartPageBase extends AbstractPage {
                 .toList();
     }
 
-    public abstract String getDeviceModel();
-
 }
